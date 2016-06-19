@@ -1,0 +1,2 @@
+#initialization
+rm(list = ls())
